@@ -5,7 +5,9 @@
 # CODED BY MOHSIN ALI
 
 # ![Screenshot_2021-04-15-06-46-01-64](https://user-images.githubusercontent.com/72184388/114879013-404c1b80-9e1a-11eb-9c91-0d3b963dfb95.jpg)
-COMMANDS
+
+# COMMANDS
+
 *➤ pkg update && upgrade
 
 *➤ pkg install git && pkg install python2
