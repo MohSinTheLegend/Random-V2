@@ -8,7 +8,8 @@
 
 # COMMANDS......
 
-`➤ pkg update && upgrade
+```python
+➤ pkg update && upgrade
 
 ➤ pkg install git && pkg install python2
 
@@ -24,5 +25,6 @@
 
 ➤ cd Random-V2
 
-➤ python2 MOHSIN.pyc`
+➤ python2 MOHSIN.pyc
+```
 
