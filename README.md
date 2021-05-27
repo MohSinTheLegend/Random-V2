@@ -6,23 +6,23 @@
 
 # ![Screenshot_2021-04-15-06-46-01-64](https://user-images.githubusercontent.com/72184388/114879013-404c1b80-9e1a-11eb-9c91-0d3b963dfb95.jpg)
 
-# COMMANDS
+# COMMANDS......
 
-*➤ pkg update && upgrade
+`➤ pkg update && upgrade
 
-*➤ pkg install git && pkg install python2
+➤ pkg install git && pkg install python2
 
-*➤ pkg install python && pkg install php
+➤ pkg install python && pkg install php
 
-*➤ pip install requests && pip install mechanize
+➤ pip install requests && pip install mechanize
 
-*➤ pip2 install mechanize && pip2 install requests
+➤ pip2 install mechanize && pip2 install requests
 
-*➤ pip2 install requests bs4
+➤ pip2 install requests bs4
 
-*➤ git clone https://github.com/MohSinTheLegend/Random-V2
+➤ git clone https://github.com/MohSinTheLegend/Random-V2
 
-*➤ cd Random-V2
+➤ cd Random-V2
 
-*➤ python2 MOHSIN.pyc
+➤ python2 MOHSIN.pyc`
 
